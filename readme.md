@@ -1,6 +1,6 @@
 # Pizzaria - Landing Page
 
-Acesse: (  )
+Acesse: ( https://wbrunotech.github.io/lp_pizzaria/ )
 
 Neste projeto de site para uma pizzaria, utilizei o CSS de maneira estratégica para criar uma apresentação visual atrativa e organizada. A definição de estilos começou pelo elemento body, onde apliquei margens e espaçamentos para garantir uma aparência consistente em diferentes dispositivos. Além disso, escolhi a fonte Montserrat para melhor legibilidade e modernidade.
 
